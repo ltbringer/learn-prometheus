@@ -1,9 +1,7 @@
 # Codeforces 4A
 [problem](https://codeforces.com/contest/4/problem/A)
 
-## Question
-
-A. Watermelon
+## A. Watermelon
 
 _time limit per test1 second_
 

@@ -1,3 +1,5 @@
+#[allow(dead_code)]
+
 // The smallest even value for a watermelon split is 2.
 const SMALLEST_HALF: u8 = 2;
 
